@@ -1,1 +1,1 @@
-A race between tortoise and rabbit.
+A race between tortoise and rabbit. Rabbit despite being fast lost the race.
